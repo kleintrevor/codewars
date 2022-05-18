@@ -10,6 +10,3 @@ var summation = function (num) {
       } return sum
     // Code here
   }
-
-  //Testing making some changes to the files and then pushing to the fork
-  //Lets see how this goes
