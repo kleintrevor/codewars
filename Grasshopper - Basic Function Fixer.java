@@ -10,7 +10,6 @@ public class Solution {
     return num;
   }
 }
-
 */
 
 public class Solution {
